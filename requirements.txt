@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+xgboost>=2.0
+torch
+scipy
+matplotlib
